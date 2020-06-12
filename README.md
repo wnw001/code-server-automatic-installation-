@@ -36,3 +36,6 @@
 
 ###登陆后就可以开始写代码了
 ![code-server控制台](https://babyrita.oss-cn-beijing.aliyuncs.com/data/uploads/editor/5ee32e097e2e7.png "code-server控制台")
+
+###更多详情
+[更多关于code-server](https://www.wnwblog.com/index/index?keyword=code-server "更多关于code-server")
